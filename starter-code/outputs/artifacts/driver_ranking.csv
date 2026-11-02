@@ -1,0 +1,9 @@
+condition_label,n_condition,n_comparison,rate_condition_%,rate_comparison_%,lift
+Complaints,401,2099,13.72,8.77,1.565
+Near Renewal,411,2089,13.38,8.81,1.519
+Missed Payment,323,2177,13.31,9.0,1.479
+Multiple Claims,320,2180,13.12,9.04,1.452
+Premium Increase,581,1919,11.7,8.91,1.313
+Low Digital Engagement,217,2283,11.06,9.42,1.174
+Service Contacts,654,1846,10.09,9.37,1.077
+Low Tenure,39,2461,10.26,9.55,1.074
